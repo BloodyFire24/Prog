@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "FOPgg7cQyrq6CM61B3xqQlJubWn3DvTS8JYxx5hvkVQvZlvyZQPtdtnvmkkVctdOZ0gHMqHbIc23p6yYuZvUwQ==",
+  "success": false,
+  "projectFilePath": "E:\\2ИСП 9-23\\Цыпленков Михаил Алексеевич\\Пр№14\\Пр№14.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Не удалось загрузить индекс служб для источника https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Не удалось загрузить индекс служб для источника https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Не удалось загрузить индекс служб для источника https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Не удалось загрузить индекс служб для источника https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.NETCore.App.Ref"
+    }
+  ]
+}
