@@ -1,0 +1,35 @@
+D:\оаип практики\ПР 19\Server\bin\Debug\Server.exe
+D:\оаип практики\ПР 19\Server\bin\Debug\Server.pdb
+D:\оаип практики\ПР 19\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\оаип практики\ПР 19\Server\obj\Debug\Server.Form1.resources
+D:\оаип практики\ПР 19\Server\obj\Debug\Server.Properties.Resources.resources
+D:\оаип практики\ПР 19\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\оаип практики\ПР 19\Server\obj\Debug\Server.exe
+D:\оаип практики\ПР 19\Server\obj\Debug\Server.pdb
+F:\оаип практики\ПР 19\Server\bin\Debug\Server.exe
+F:\оаип практики\ПР 19\Server\bin\Debug\Server.pdb
+F:\оаип практики\ПР 19\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+F:\оаип практики\ПР 19\Server\obj\Debug\Server.Form1.resources
+F:\оаип практики\ПР 19\Server\obj\Debug\Server.Properties.Resources.resources
+F:\оаип практики\ПР 19\Server\obj\Debug\Server.csproj.GenerateResource.cache
+F:\оаип практики\ПР 19\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+F:\оаип практики\ПР 19\Server\obj\Debug\Server.exe
+F:\оаип практики\ПР 19\Server\obj\Debug\Server.pdb
+C:\Users\egor2\OneDrive\Рабочий стол\ПР 19\Server\bin\Debug\Server.exe
+C:\Users\egor2\OneDrive\Рабочий стол\ПР 19\Server\bin\Debug\Server.pdb
+C:\Users\egor2\OneDrive\Рабочий стол\ПР 19\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\egor2\OneDrive\Рабочий стол\ПР 19\Server\obj\Debug\Server.Form1.resources
+C:\Users\egor2\OneDrive\Рабочий стол\ПР 19\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\egor2\OneDrive\Рабочий стол\ПР 19\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\egor2\OneDrive\Рабочий стол\ПР 19\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\egor2\OneDrive\Рабочий стол\ПР 19\Server\obj\Debug\Server.exe
+C:\Users\egor2\OneDrive\Рабочий стол\ПР 19\Server\obj\Debug\Server.pdb
+D:\Практические\2ИСП 9-23\Цыпленков Михаил Алексеевич\Практическая работа №19\Server\bin\Debug\Server.exe
+D:\Практические\2ИСП 9-23\Цыпленков Михаил Алексеевич\Практическая работа №19\Server\bin\Debug\Server.pdb
+D:\Практические\2ИСП 9-23\Цыпленков Михаил Алексеевич\Практическая работа №19\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\Практические\2ИСП 9-23\Цыпленков Михаил Алексеевич\Практическая работа №19\Server\obj\Debug\Server.Form1.resources
+D:\Практические\2ИСП 9-23\Цыпленков Михаил Алексеевич\Практическая работа №19\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Практические\2ИСП 9-23\Цыпленков Михаил Алексеевич\Практическая работа №19\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Практические\2ИСП 9-23\Цыпленков Михаил Алексеевич\Практическая работа №19\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Практические\2ИСП 9-23\Цыпленков Михаил Алексеевич\Практическая работа №19\Server\obj\Debug\Server.exe
+D:\Практические\2ИСП 9-23\Цыпленков Михаил Алексеевич\Практическая работа №19\Server\obj\Debug\Server.pdb
